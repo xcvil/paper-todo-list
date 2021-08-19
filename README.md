@@ -8,10 +8,10 @@
 ### Without Negative Pairs
 - [ ] Xinlei Chen, Kaiming He, [Exploring Simple Siamese Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html), **CVPR 2021**, **Oral**. Best Paper Honorable Mention
 
-##Object Detection
+## Object Detection
 ### One-Stage
 
-###Two-Stage
+### Two-Stage
 - [ ] Ross Girshick, Trevor Darrell, [Rich feature hierarchies for accurate object detection and semantic segmentation](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html), **CVPR 2014**, **Oral**.
 
 ## Multiple Object Tracking
