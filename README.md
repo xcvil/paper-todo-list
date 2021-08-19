@@ -4,6 +4,123 @@
 - [Object Detection](##Object-Detection)
 - [Multiple Object Tracking](##Multiple-Object-Tracking)
 
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
 
 <a name="Contrastive-Learning"></a>
 ## Contrastive Learning
