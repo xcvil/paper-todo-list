@@ -1,8 +1,8 @@
 # paper-todo-list
 
-- [Contrastive Learning](##Contrastive-Learning)
-- [Object Detection](##Object-Detection)
-- [Multiple Object Tracking](##Multiple-Object-Tracking)
+- [Contrastive Learning](#Contrastive-Learning)
+- [Object Detection](#Object-Detection)
+- [Multiple Object Tracking](#Multiple-Object-Tracking)
 
 # Best Paper
 
