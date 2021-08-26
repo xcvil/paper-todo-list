@@ -3,7 +3,7 @@
 - [Contrastive Learning](#Contrastive-Learning)
 - [Object Detection](#Object-Detection)
 - [Multiple Object Tracking](#Multiple-Object-Tracking)
-
+- [Multi-Task Learning](#Multi-Task-Learning)
 
 <a name="Contrastive-Learning"></a>
 ## Contrastive Learning
@@ -32,3 +32,9 @@
 ## Multiple Object Tracking
 ### Contrastive Loss
 - [ ] Xia Li, Fisher Yu. [Quasi-Dense Similarity Learning for Multiple Object Tracking](https://openaccess.thecvf.com/content/CVPR2021/html/Pang_Quasi-Dense_Similarity_Learning_for_Multiple_Object_Tracking_CVPR_2021_paper.html), **CVPR 2021**, **Oral**.
+
+<a name="Multi-Task-Learning"></a>
+## Multi-Task Learning
+- [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html), **CVPR 2018**.
+- [ ] [Multi-Task Learning as Multi-Objective Optimization](https://proceedings.neurips.cc/paper/2018/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html), **NeurIPS 2018**.
+- Luc Van Gool. [ ] [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379), arXiv preprint.
