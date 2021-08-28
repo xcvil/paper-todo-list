@@ -4,7 +4,7 @@
 - [Object Detection](#Object-Detection)
 - [Multiple Object Tracking](#Multiple-Object-Tracking)
 - [Multi-Task Learning](#Multi-Task-Learning)
-
+- [Long-Tailed Recognition](#Long-Tailed-Recognition)
 <a name="Contrastive-Learning"></a>
 ## Contrastive Learning
 ### Without Negative Pairs
@@ -37,4 +37,8 @@
 ## Multi-Task Learning
 - [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html), **CVPR 2018**.
 - [ ] [Multi-Task Learning as Multi-Objective Optimization](https://proceedings.neurips.cc/paper/2018/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html), **NeurIPS 2018**.
-- Luc Van Gool. [ ] [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379), arXiv preprint.
+- [ ] Luc Van Gool. [ ] [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379), arXiv preprint.
+
+<a name="Long-Tailed-Recognition"></a>
+## Long-Tailed Recognition
+- [ ] Ziwei Liu, [Large-Scale Long-Tailed Recognition in an Open World](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.html), **CVPR 2019**.
